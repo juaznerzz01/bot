@@ -1,0 +1,10 @@
+{
+  "name": "fx-vision-quotex",
+  "productName": "Fx Vision Quotex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
